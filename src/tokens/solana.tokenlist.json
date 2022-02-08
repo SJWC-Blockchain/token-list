@@ -103825,6 +103825,17 @@
         "twitter": "https://twitter.com/DemonsOnholiday",
         "website": "https://demonsonholiday.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4BfoMbGfKPHa731mnRssbfoXTFX41fPfihWiKysuvrEP",
+      "symbol": "SJWC",
+      "name": "SJWCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/SJWC-Blockchain/crypto-assets/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
